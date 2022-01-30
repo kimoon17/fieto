@@ -1,0 +1,19 @@
+.navbar-wrapper-1 {
+    display: flex;
+    background-color: lightblue;
+    padding: 10px;
+    justify-content: center;
+}
+.navbar-list-item {
+    padding: 5px 10px;
+    list-style-type: none;
+}
+.navbar-link {
+    text-decoration: none;
+    padding: 20px;
+    transition: all 0.3s ease-in-out;
+}
+.navbar-link:hover {
+    background-color: #3e6182;
+    color: white;
+}
